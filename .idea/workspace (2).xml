@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9217d37-0014-4df2-a955-aa56086402fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AL Lesson 2/.idea/AL Lesson 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AL Lesson 2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/.idea/Lesson 12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/accessory_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/complects_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/gadgets_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/keyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/monitor_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/parsing_laptop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 12/program_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 15/.idea/Lesson 15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 15/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 15/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 15/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 3/.idea/Lesson 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/.idea/Lesson 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/lesson4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5/.idea/Lesson 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6/.idea/Lesson 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6/lesson6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/.idea/Lesson 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/misol/misol3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/misol/misol4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 9/repo/lesson9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson1/.idea/Lesson1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 3/lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson 3/lesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-3.12.0-amd64.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2aj1wWLsxGeMznd7Ej4b7PjamTa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.bot (1).executor": "Run",
+    "Python.complects_parsing.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.complects_parsing">
+    <configuration name="bot (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lesson bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lesson bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Backend\Lesson bot\bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="complects_parsing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lesson bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/complects_parsing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.complects_parsing" />
+        <item itemvalue="Python.bot (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9217d37-0014-4df2-a955-aa56086402fa" name="Changes" comment="" />
+      <created>1704817412982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704817412982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
