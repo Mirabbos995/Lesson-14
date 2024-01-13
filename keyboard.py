@@ -12,21 +12,15 @@ def phone_number():
 def products_menu():
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     laptops = types.KeyboardButton(text="Notebook")
-    techniques = types.KeyboardButton(text="Techniques")
     monitors = types.KeyboardButton(text="Monitors")
     programs = types.KeyboardButton(text="Programs")
     accessories = types.KeyboardButton(text="Accessories")
     complects = types.KeyboardButton(text="Complects")
-    keyboard.row(laptops,techniques)
-    keyboard.row(monitors,programs)
-    keyboard.row(accessories,complects)
+    keyboard.row(laptops, monitors)
+    keyboard.row(programs, accessories)
+    keyboard.row(complects)
     return keyboard
 
-def techniques():
-    keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    techniques = types.KeyboardButton(text="Techniques")
-    keyboard.row(techniques)
-    return keyboard
 
 def monitors():
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
@@ -62,6 +56,6 @@ def payment(url):
 
 def back():
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    back_btn = types.KeyboardButton(text="Orqaga")
+    back_btn = types.KeyboardButton(text="Back to menu")
     keyboard.row(back_btn)
     return keyboard

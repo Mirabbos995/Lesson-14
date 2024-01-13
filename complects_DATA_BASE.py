@@ -1,5 +1,5 @@
 import psycopg2
-from complects_parsing import complects_Base, product_image, product_name, product_price
+from complects_parsing import complects_Base
 
 
 complects_data_base = psycopg2.connect(
@@ -11,11 +11,10 @@ complects_data_base = psycopg2.connect(
 cursor = complects_data_base.cursor()
 
 
-for c in complects_Base:
-    name = c["Complects_name"]
-    price = c["Complects_price"]
-    img = c["Complects_image"]
+for complect in complects_Base:
+    product_name = complect["Complects_name"]
+    product_price = complect["Complects_price"]
+    product_image = complect["Complects_image"]
     cursor.execute(f"""INSERT INTO complects(name, price, image) values ('{product_name}', '{product_price}', '{product_image}')""")
 
 complects_data_base.commit()
-print(complects_data_base)

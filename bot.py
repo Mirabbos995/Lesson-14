@@ -1,7 +1,6 @@
 import telebot
 from keyboard import phone_number, products_menu, payment, back
 from parsing_laptops import data_laptop
-from parsing_office_technique import data_Base
 from monitor_parsing import monitor_Base
 from program_parsing import program_Base
 from accessory_parsing import accessory_Base
@@ -11,7 +10,6 @@ from monitor_DATA_BASE import monitor_data_base
 from complects_DATA_BASE import complects_data_base
 from program_DATA_BASE import program_data_base
 from accessory_DATA_BASE import accessory_data_base
-from office_technique_DATA_BASE import office_technique_data_base
 
 token = "6766087680:AAF4ZnogYOe7hJCVlQsWJ6zLBtzfSJVrhuI"
 bot = telebot.TeleBot(token)
@@ -45,13 +43,6 @@ def product_menu(message):
             bot.send_photo(chat_id, product_image, caption=f"Name: {product_name}\nPrice: {product_price}",
             reply_markup=payment("https://ultrashop.uz/ru/store/noutbuki"))
 
-    elif message.text == "Techniques":
-        for technique in data_Base:
-            technique_name = technique["Technique_name"]
-            technique_price = technique["Technique_price"]
-            technique_image = technique["Technique_image"]
-            bot.send_photo(chat_id, technique_image, caption=f"Name: {technique_name}\nPrice: {technique_price}",
-                   reply_markup=payment("https://ultrashop.uz/ru/store/pechatnaya-tehnika"))
 
 
     elif message.text == "Monitors":
@@ -97,7 +88,7 @@ def product_menu(message):
 
 def back_to_menu(message):
     chat_id = message.chat.id
-    if message.text == "Back":
+    if message.text == "Back to menu":
         bot.send_message(chat_id, "Choose one of them!", reply_markup=products_menu())
         bot.register_next_step_handler(message, product_menu)
 

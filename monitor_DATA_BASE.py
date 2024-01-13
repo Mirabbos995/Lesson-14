@@ -1,5 +1,5 @@
 import psycopg2
-from monitor_parsing import monitor_Base, product_image, product_name, product_price
+from monitor_parsing import monitor_Base
 
 
 monitor_data_base = psycopg2.connect(
@@ -11,11 +11,15 @@ monitor_data_base = psycopg2.connect(
 cursor = monitor_data_base.cursor()
 
 
-for m in monitor_Base:
-    name = m["Monitor_name"]
-    price = m["Monitor_price"]
-    img = m["Monitor_image"]
+for monitor in monitor_Base:
+    product_name = monitor["Monitor_name"]
+    product_price = monitor["Monitor_price"]
+    product_image = monitor["Monitor_image"]
     cursor.execute(f"""INSERT INTO monitor(name, price, image) values ('{product_name}', '{product_price}', '{product_image}')""")
 
 monitor_data_base.commit()
-print(monitor_data_base)
+# print(monitor_data_base)
+
+
+
+
